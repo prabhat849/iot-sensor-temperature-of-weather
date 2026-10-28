@@ -1,0 +1,11 @@
+IoT Sensor Data Processing Pipeline - Final Results
+
+Total readings: 320
+Warning readings: 43
+Normal readings: 277
+Average temperature: 54.83 C
+Maximum temperature: 94.92 C
+Warning percentage: 13.44%
+
+Temperature above 80 C: WARNING
+Temperature at or below 80 C: NORMAL
